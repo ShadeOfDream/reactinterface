@@ -1,3 +1,5 @@
-npx create-react-app reactinterface
-cd reactinterface
-npm start
+### `npx create-react-app reactinterface`
+### `cd reactinterface`
+### `npm start`
+
+<br>
